@@ -1,0 +1,113 @@
+       
+     /* h1{
+    color: rgb(43, 151, 172);
+    font-size: xxx-large;
+    background-color: black;
+}
+p1{
+    color: red;
+
+}
+div1{
+    border-image-width: 10px;
+    border-image-width: 10px;
+}
+h2{
+    color: whitesmoke;
+    margin-left: 20px;
+    padding-left: auto;
+    background-color: red;
+}
+h3{
+    font-size: xx-large;
+}
+.box{
+    margin-left: 15px;
+    margin-block-start: auto;
+}
+.subsc{
+    background-color:navy;
+    margin-left: 300px;
+    margin-right: 200px;
+    padding: auto;
+    border: goldenrod solid;
+    display: block;
+    
+}
+.web{
+    background-color: black;
+    background-size: cover;
+}
+h4{
+    margin-left: 200px;
+    border-color: aqua;
+}
+.west{
+    padding-right: 1300 px;
+    border-block: 100px;
+    border-style: solid 50px;
+    /* border: gold solid 5px; */
+/* }
+.pass{
+    margin-top: 30px;
+    /* border:gold solid 5px ; */
+
+img{
+    float: inline-start;
+}
+
+.logo{
+    background-color: black;
+    color: rgb(71, 161, 189);
+    
+}
+.subscribe{
+    border:solid 10px goldenrod;
+    border-radius: 10px 10px 10px 10px;
+    border-color: goldenrod;
+    color: red;
+    border-style: solid;
+    /* padding: 100px;
+    margin: 100px; */
+    
+}
+.page{
+    background-color: black;
+    color: rgb(55, 158, 174)
+    ;
+}
+/* li{
+    display: inline;
+} */
+
+.navbar{
+    /* position: fixed; */
+    /* margin-top: 10px;
+    margin-right: 10px;
+
+} */
+position: fixed;
+top: 17px;
+right: 35px;
+}
+/* display: inline-block and vertical-align: top to Place the Text Next to an Image in HTML */
+.logo{
+    display: inline-block;
+    vertical-align: top 5px;
+    font-size: x-large;
+    color: rgb(179, 75, 24);
+}
+.text{
+    text-align: center;
+    font-size: x-large;
+}
+.header--buttons{
+    position: fixed;
+    top:17px;
+    right: 180px;
+}
+.decoration2{
+    position: absolute;
+    left: 800px;
+    top: 300px;
+}
